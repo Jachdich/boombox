@@ -1,0 +1,6 @@
+bin
+*~
+.*
+spigot-api*
+target
+*.jar
